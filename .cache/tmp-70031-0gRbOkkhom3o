@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/matt/Desktop/gatsby-demo/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":53118,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/matt/Desktop/gatsby-demo","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"gatsby-demo","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"develop":"gatsby develop"},"dependencies":{"@sideway/address":"^4.1.1","gatsby":"^3.4.0","joi":"^17.4.0","react":"^17.0.2","react-dom":"^17.0.2"}},"report":{"errorMap":{}},"useYarn":true,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
